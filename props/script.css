@@ -1,0 +1,10 @@
+.innerdiv{
+    border: 2px solid red;
+    background-color: chartreuse;
+    height: 100px;
+    width: 200px;
+}
+.point-section{
+    background-color: brown;
+    font-size: large;
+}

@@ -1,0 +1,19 @@
+.innerdiv {
+  background-color: #7fff00;
+  border: 2px solid red;
+  width: 200px;
+  height: 100px;
+}
+
+.point-section {
+  background-color: brown;
+  font-size: large;
+}
+
+.outerdiv {
+  background-color: #0ff;
+  border: 2px solid #000;
+  width: 300px;
+  height: 200px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
