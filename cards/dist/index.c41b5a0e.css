@@ -1,0 +1,13 @@
+.card {
+  background-color: #7fffd4;
+  border: 2px solid #000;
+  width: 500px;
+  height: 120px;
+}
+
+.tour-cards {
+  flex-wrap: wrap;
+  gap: 3px;
+  display: flex;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
